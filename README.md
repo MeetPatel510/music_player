@@ -26,3 +26,6 @@ player, video player, and carousel slider functionalities along with a tab bar v
 - Understanding of user interface design principles and best practices.
 - Experience with mobile app development and related tools such as Android Studio or VS Code.
 - Ability to work independently.
+
+  
+![music](https://github.com/MeetPatel510/music_player/assets/124903131/72e4ebd6-9fed-4fff-8f48-76bfe05336c3)
